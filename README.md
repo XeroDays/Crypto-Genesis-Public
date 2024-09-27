@@ -2,7 +2,7 @@
 A software designed for Cryptocurrency prediction and calculating probabilities. 
 
 There are following technologies used in this application
-## Stack:
+## Stack: 
 <div align="center"> 
   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-sharp.svg"/>
   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bitcoin.svg"/> 
